@@ -17,11 +17,8 @@
   
 </div><br/>
 
-Highly driven student with growing knowledge in JavaScript, React.js, TypeScript and
-Node, seeking to start my professional career as a software developer, after working for
-six years in the financial market.
-
-As a technology enthusiast, I made the exciting decision to transition into a career as a software developer, after following years of holding senior positions in the banking industry.
+Highly driven professional with 9+ years of experience in finance, compliance, and business analytics.
+Currently pursuing a Master’s in Data Analytics at the University of Niagara Falls, combining extensive experience in business problem-solving, regulatory compliance, and data-driven decision-making with growing expertise in data pipelines, predictive modeling, computer vision, and automation workflows. Passionate about delivering scalable, actionable insights and leveraging cross-functional experience in collaborative and agile environments.
 
 
 
